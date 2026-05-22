@@ -13,7 +13,7 @@ public class PCs
     public string Name { get; set; }
 
     [Required]
-    public double Weight { get; set; } // float(5) w SQL
+    public double Weight { get; set; } 
 
     [Required]
     public int Warranty { get; set; }
