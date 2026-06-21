@@ -1,7 +1,7 @@
-﻿namespace APBD_Tutorial_5.Models;
-
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+
+namespace APBD_Tutorial_5.Entities;
 
 public class Components
 {
